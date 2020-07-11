@@ -186,7 +186,7 @@ nav ul li ul li::before {
 
 #showcase .bg-image {
     position: absolute;
-    background: saddlebrown url('../img/church1-min.JPG');
+    background: saddlebrown url('../img/church1-min.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
