@@ -186,7 +186,7 @@ nav ul li ul li a::before {
 
 #bg2 {
     position: absolute;
-    background: #333 url('../img/carving.JPG');
+    background: #333 url('../img/carving.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
